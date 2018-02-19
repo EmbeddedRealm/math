@@ -1,0 +1,9 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "math operations",
+  "main": "index.js",
+  "repository": "https://github.com/EmbeddedRealm/math",
+  "author": "elimones",
+  "license": "MIT"
+}
